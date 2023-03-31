@@ -1,3 +1,5 @@
+print('load load')
+
 local players = game:GetService('Players')
 local lplr = players.LocalPlayer
 local lastCF, stop, heartbeatConnection
